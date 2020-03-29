@@ -5,5 +5,5 @@ port:
 
 color:
   1:[red]
-  2:[yellow]
+  2:[white]
 
